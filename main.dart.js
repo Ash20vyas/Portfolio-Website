@@ -56446,7 +56446,7 @@ A.Wi.prototype={
 $2(a,b){var s=null,r=this.a,q=b.b>720,p=q?B.Q:B.a4,o=q?1:0,n=A.ch("CATALOGUE APP",s,s,A.d1(B.W,35,B.b3,1.3),s,s),m=A.qB(8),l=t.p
 o=A.db(A.cO(A.a([n,B.ba,B.J2,B.cM,A.fP(A.a([A.f3(A.bc(s,A.Fv(B.ev,new A.Wh()),s,s,new A.dA(B.W,s,s,m,s,s,B.ay),48,s,s,B.d7,s),B.as,s,s,s)],l),B.x,B.q)],l),B.a1,B.bq,B.q),o)
 n=q?1:0
-return A.f7(B.a_,s,s,s,s,A.rx(A.a([o,B.bt,A.db(A.nz("assets/images/Proj4.jpg",s,q?s:350),n)],l),B.aC,p,s,B.x,B.q,s,s,B.cV),!1,s,s,!1,1,s,s,s,r,s,s,r,s,!0,!1)},
+return A.f7(B.a_,s,s,s,s,A.rx(A.a([o,B.bt,A.db(A.nz("assets/images/Proj4.png",s,q?s:350),n)],l),B.aC,p,s,B.x,B.q,s,s,B.cV),!1,s,s,!1,1,s,s,s,r,s,s,r,s,!0,!1)},
 $S:25}
 A.Wh.prototype={
 $0(){A.qb("https://github.com/Ash20vyas/catalogue_app")},
